@@ -2,8 +2,7 @@
 # Тестовое задание для курса С++ для робототехников (Skillbox)
 Беспалова Ульяна
 
-[![Build Status](https://app.travis-ci.com/UlianaBespalova/Technopark_Cpp.svg?branch=homework_2)](https://app.travis-ci.com/UlianaBespalova/Technopark_Cpp)   [![codecov](https://codecov.io/gh/UlianaBespalova/Technopark_Cpp/branch/homework_2/graph/badge.svg?token=I69ZMCHZZZ)](https://codecov.io/gh/UlianaBespalova/Technopark_Cpp)
-
+Вариант без гугл-тестов
 
 ## Задание
 
@@ -31,11 +30,4 @@ make
 
 ```
 ./main
-```
-
-
-Запуск тестов:
-
-```
-./skillbox_text_task_testing
 ```
