@@ -39,3 +39,5 @@ make
 ```
 ./skillbox_text_task_testing
 ```
+
+Версия без гугл-тестирования лежит в соседней ветке *without_tests*
